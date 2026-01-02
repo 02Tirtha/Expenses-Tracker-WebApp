@@ -110,6 +110,17 @@ Open your web browser and navigate to `http://localhost:8080`.
 ![Example Image](screenshots/7.png) <br>
 ![Example Image](screenshots/8.png) <br>
 
+## Attribution
+
+This project is based on the original repository by **mohamed-elsawy**:
+- Original Repository: https://github.com/mohamed0sawy/Expenses-Tracker-WebApp
+
+Enhancements added in this fork:
+- Dockerfile for Spring Boot application
+- Docker Compose setup for MySQL and application
+- Containerized deployment with custom Docker network
+- Updated documentation for Docker usage
+
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
 
